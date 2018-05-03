@@ -1,6 +1,5 @@
 var test = require('tap').test;
 var RequestToken = require('../src/RequestToken.js');
-console.log(RequestToken);
 
 var rt = new RequestToken();
 
