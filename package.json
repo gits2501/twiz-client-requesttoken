@@ -1,6 +1,6 @@
 {
   "name": "twiz-client-requesttoken",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Request token leg of OAuth 1.0a for twiz-client",
   "main": "src/RequestToken.js",
   "scripts": {
